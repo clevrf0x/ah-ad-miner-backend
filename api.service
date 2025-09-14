@@ -16,7 +16,7 @@ StartLimitInterval=60s
 StartLimitBurst=3
 
 Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/usr/local/aws-cli/v2/current/bin:/snap/bin
-EnvironmentFile=/root/ah-ad-miner-backend/.env
+# EnvironmentFile=/root/ah-ad-miner-backend/.env
 
 # Logging
 StandardOutput=journal
